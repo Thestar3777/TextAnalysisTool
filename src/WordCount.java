@@ -44,6 +44,7 @@ public class WordCount {
                 maxFrequency = entry.getValue();
             }
         }
+        System.out.println();
         System.out.println("You've entered: ");
         System.out.println(words + " words");
         System.out.println(characters + " characters");
