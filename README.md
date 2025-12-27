@@ -33,7 +33,8 @@ javac Main.java
 
 ```bash
 java Main
-```## Usage
+```
+## Usage
 
 When you run the program, you will be prompted to paste a block of text.
 
@@ -45,7 +46,10 @@ Enter a paragraph or a lengthy text:
 You've entered:
 89 words
 400 characters
-'t' is the most common character.## Tech Stack
+'t' is the most common character.
+```
+
+## Tech Stack
 
 **Language:** Java 22
 **IDE:** IntelliJ IDEA
